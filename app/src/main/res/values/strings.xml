@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">المتكلم</string>
+    <string name="read">اقرا</string>
+    <string name="speak">تكلم</string>
+    <string name="msg_hint">اكتب الرساله</string>
+    <string name="permession_msg">على التطبيق ان ياخذ الصلاحيات</string>
+</resources>
